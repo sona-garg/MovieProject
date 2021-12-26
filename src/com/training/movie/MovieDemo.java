@@ -22,6 +22,11 @@ public class MovieDemo {
 		System.out.println("The movie number is:"+M3.getMovieNum());
 		System.out.println("The movie name is:"+M3.getMovieName());
 		System.out.println("The movie release Year is:"+M3.getreleaseYear());
+		Movie M4=new Movie(3,"Harray Potter4",2004);
+		System.out.println("The movie number is:"+M4.getMovieNum());
+		System.out.println("The movie name is:"+M4.getMovieName());
+		System.out.println("The movie release Year is:"+M4.getreleaseYear());
+		
 		
 	}
 	
